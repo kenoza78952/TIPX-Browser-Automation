@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Playwright / browser artifacts
+playwright-report/
+test-results/
+*.zip
+
+# Temporary files
+tmp/
+temp/
